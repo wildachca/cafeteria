@@ -6,6 +6,25 @@ body{
     padding: 50px;
 }
 
+nav{
+    background-color: rgb(118, 1, 141);
+    padding: 10px;
+}
+nav a{
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+nav a:hover{
+    text-decoration: underline;
+}
+
 h1{
     color: #0e0542;
+}
+p{
+    color: rgb(3, 0, 48);
+    font-family: 'Courier New', Courier, monospace;
 }
