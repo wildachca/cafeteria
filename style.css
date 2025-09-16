@@ -24,7 +24,17 @@ nav a:hover{
 h1{
     color: #0e0542;
 }
-p{
-    color: rgb(3, 0, 48);
+p 
+h2{
+    color: rgb(255, 255, 255);
     font-family: 'Courier New', Courier, monospace;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:  rgb(118, 1, 141);
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
